@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ColourMemory</string>
+    <string name="zero">0</string>
+    <string name="high_scores">High Scores</string>
+    <string name="rank">Rank</string>
+    <string name="score">Score</string>
+    <string name="player_name">Player Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="save">Save</string>
+
+    <string name="valid_name_input_err_msg">Please enter valid name.</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="start_game">Start Game</string>
+
+    <string name="quit">Quit?</string>
+    <string name="are_u_sure_u_want_to_quit">Are you sure u want to quit the ongoing game?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="game_finished">Game Finished</string>
+</resources>
